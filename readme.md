@@ -30,9 +30,9 @@ If you look at a standard Transformer diagram, here is how the code maps to the 
 
 You need Python 3.8 or higher. You will also need to install PyTorch.
 
-bash
-
+```bash
 pip install torch
+```
 
 ## 🚀 How to Run
 
